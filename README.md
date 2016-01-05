@@ -1,4 +1,4 @@
-<h1> Kent-State hackathon </h1>
+<h1>Buttons a Kent-State Hackathon project. </h1>
 
 <p> Using a spark core, and an led matrix we created wearable "buttons" that display custom messages. </p1>
 

@@ -1,14 +1,7 @@
-# kent-stuff
-kent-stuff
+<h1> Kent-State hackathon </h1>
 
-#Things to do
-+ Learn about arduino (fuck sparkcore)
-  + See if it can be powered by 9v
-  + what kind of sdk
-  + hello world prototype
-  + how to display text
-  + how to transmit data
-+  Website design
-+  Twitter scraper
-+ 3d print case
-+ Sensor stuff
+<p> Using a spark core, and an led matrix we created wearable "buttons" that display custom messages. </p1>
+
+<p> Messages sent using a curl request to our API endpoint. </p1>
+
+<p> Also includes a Twitter scraper to allow buttons to receive local hackathon updates, from the Kent State Hackathon </p>
